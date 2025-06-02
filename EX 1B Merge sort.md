@@ -70,7 +70,7 @@ printList(arr)
 ```
 
 ## Output:
-![Uploading 447102103-4484adec-5f3d-47e5-bcd5-bb80a785dd82.png…]()
+![447102103-4484adec-5f3d-47e5-bcd5-bb80a785dd82](https://github.com/user-attachments/assets/9dc1f55a-82b0-4608-871f-15bc5f573d2a)
 
 
 ## Result:
