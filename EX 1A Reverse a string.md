@@ -15,8 +15,8 @@ ii) Otherwise, return s[-1] + reverse(s[:-1]).
 ```
 /*
 Program to implement Reverse a String
-Developed by: VARSHA S
-Register Number: 212222220055
+Developed by: DHARANI P
+Register Number: 212222220011
 */
 
 def reverse(s):
